@@ -143,7 +143,8 @@ Brie Carre is the worst seller, with the lowest sales in revenue, quantity, and 
 
 PowerBI is used to created a dashboard visualizing the data
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/75a92e97-ad9b-4b5d-9115-1aa3926cb7dc)
+![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/e5e9c6f1-dd10-495c-b523-0bdab812bf1d)
+![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/7732c6ae-1b04-44ec-9b8f-1c53ad7ed658)
 
 ## Recommendations
 
