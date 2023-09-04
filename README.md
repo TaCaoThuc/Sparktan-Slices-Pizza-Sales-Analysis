@@ -43,31 +43,31 @@ The dataset is analyzed using SQL
 
 **a. Revenue**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/19cfc0e1-acad-456f-8753-431f852c287a)
+<img src="image/Screenshot Total Revenue.png">
 
 The total revenue of the pizza sales is $817,860.
 
 **b. Average order Value**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/54df4d05-7b60-4f75-a6ec-86626603b0db)
+<img src="image/Screenshot Avg order value.png">
 
 The average order value is $38.31.
 
 **c. Total pizzas sold**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/283c1d6d-fc96-47de-9093-7bc72a7bb5de)
+<img src="image/Screenshot total sold.png">
 
 The total number of pizzas sold is 49,574.
 
 **d. Total orders**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/ebbd1803-c0c0-478c-a89b-9eeafcf6d54b)
+<img src="image/Screenshot total order.png">
 
 The total number of orders is 21,350.
 
 **e. Average number of pizzas per order**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/55ee4003-f155-4432-b4f1-a70083b4fd1b)
+<img src="image/Screenshot avg-pizza-per-order.png">
 
 The average number of pizzas per order is 2.32.
 
@@ -77,13 +77,13 @@ The average number of pizzas per order is 2.32.
 
 **a.1. Daily trend for total sales**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/15058e0b-fd82-43cc-a2a6-70bc28239df7)
+<img src="image/Screenshot daily trend.png">
 
 Sales show varying patterns across the days of the week, with the highest daily orders on Fridays (3,538), Thursdays (3,239) and Saturdays (3,158). In contrast, Mondays (2,794) and Sundays (2,624) see lowest sales.
 
 **a.2. Monthly trend for total sales**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/abb5be49-c1e8-453c-9787-145bb48d82f2)
+<img src="image/Screenshot monthly trend.png">
 
 Monthly sales also exhibit varying patterns. Peak months are July (1,935), May (1,853), and January (1,845) while lowest sales are observed in December (1,680) and February (1,685).
 
@@ -91,35 +91,35 @@ Monthly sales also exhibit varying patterns. Peak months are July (1,935), May (
 
 **b.1 Percentage of sales by category**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/fa8848c1-b78e-44f9-b5c0-f6332b81f51e)
+<img src="image/Screenshot Percentage of sales by category.png">
 
 Sales distribution by category shows a relatively balanced preference among customers. The largest percentage of sales belongs to the Classic pizza category (26.91%), followed by Supreme (25.46%) and Chicken (23.96%), while Veggie accounts for the smallest share (23.68%).
 
 **b.2. Percentage of sales by pizza size**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/8b777d3e-4a33-4c0f-a20d-55da96c202b7)
+<img src="image/Screenshot Percentage of sales by size.png">
 
 Sales distribution by pizza size indicates varying customer preferences: L takes up the largest percentage (45.89%), followed by M (30.49%) and S (21.77%). XL and XXL have the smallest shares of revenue, with only 1.72% and 0.12%, respectively.
 
 **c. Total pizzas sold by category**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/98d7a040-6c4e-4adc-ae1a-f38815ce3207)
+<img src="image/Screenshot Total sold by category.png">
 
-Among the pizza categories, the Chicken category has the highest sales with 14,888 units sold, trailed by Supreme (11,987 units) and Veggie (11,649 units). The Chicken category records the lowest sales with 11,050 units.  
+Among the pizza categories, the Classic category has the highest sales with 14,888 units sold, trailed by Supreme (11,987 units) and Veggie (11,649 units). The Chicken category records the lowest sales with 11,050 units.  
 
 **d. Top 5 best sellers by revenue, quantity and order**
 
 **d.1. Top 5 best sellers by revenue**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/2667a6ab-77e2-4526-8423-590314e36d81)
+<img src="image/Screenshot top 5 best by revenue.png">
 
 **d.2. Top 5 best sellers by quantity**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/6b0ab472-3915-4574-ae42-966c53c2e649)
+<img src="image/Screenshot top 5 best by quantity.png">
 
 **d.3. Top 5 best sellers by order**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/605acb5e-0461-4773-a63d-21abbe5355d4)
+<img src="image/Screenshot top 5 best by total orders.png">
 
 From the top 5 best sellers across the 3 categories, it can be seen that Thai Pizza, with the highest revenue and Classic Deluxe, with the most quantity and orders, are two most outstanding items. Additionally, Barbecue Chicken, Hawaiian and Pepperoni also demonstrates remarkable performances with their appearances in all 3 tables.
 
@@ -127,15 +127,15 @@ From the top 5 best sellers across the 3 categories, it can be seen that Thai Pi
 
 **e.1. Top 5 worst sellers by revenue**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/6fcdcaf2-72e0-462c-8ef9-34af61b8b81a)
+<img src="image/Screenshot top 5 worst by revenue.png">
 
 **e.2. Top 5 worst sellers by quantity**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/122f04ad-3793-4818-a5c8-a4460c6343d3)
+<img src="image/Screenshot top 5 worst by quantity.png">
 
 **e.3. Top 5 worst sellers by order**
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/5ee91672-f693-405f-b4f9-866f8758907e)
+<img src="image/Screenshot top 5 worst by total orders.png">
 
 Brie Carre is the worst seller, with the lowest sales in revenue, quantity, and orders. Additionally, Mediterranean and Spinach Supreme also emerge as notable underperformers, appearing in all three tables.
 
@@ -143,8 +143,8 @@ Brie Carre is the worst seller, with the lowest sales in revenue, quantity, and 
 
 PowerBI is used to created a dashboard visualizing the data
 
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/e5e9c6f1-dd10-495c-b523-0bdab812bf1d)
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/7732c6ae-1b04-44ec-9b8f-1c53ad7ed658)
+<img src="image/Screenshot dashboard 1.png">
+<img src="image/Screenshot dashboard 2.png">
 
 ## Recommendations
 
