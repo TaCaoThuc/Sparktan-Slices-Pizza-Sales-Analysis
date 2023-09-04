@@ -1,5 +1,5 @@
 # Sparktan-Slices-Pizza-Sales-Analysis
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/9297def9-2e1d-4f3c-87a6-12ed98d4ad3a)
+![](image/Why-Does-Pizza-Taste-So-Much-Better-From-Restaurants-3fdcc2c1c04742209a8d5030127dae89.jpg)
 
 ## Introduction
 ### Scenario: 
@@ -32,7 +32,7 @@ Other metrics that need to be explored:
 - pizza_name: The title of the pizza as presented on the menu.
 
 A preview of the dataset:
-![image](https://github.com/TaCaoThuc/Sparktan-Slices-Pizza-Sales-Analysis/assets/142728022/9a425001-fe46-4eb1-8bb1-c17d14ec3cf7)
+<img src="image/Screenshot 2023-08-26 094429.png">
 
 ## Data Cleaning
 
