@@ -35,6 +35,11 @@ A preview of the dataset:
 <img src="image/Screenshot 2023-08-26 094429.png">
 
 ## Data Cleaning
+Excel is used to clean raw data
+
+-	Handling missing values: No missing values was found 
+-	Removing duplicates: No duplicates was found
+-	Changing data types: Change data types of order_date column to Date and order_time column to Time.
 
 ## Data Analysis
 The dataset is analyzed using SQL
